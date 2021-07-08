@@ -1,8 +1,7 @@
-### Hi there 👋
 
 <!-- <img align="right" width="200px" src="https://media.giphy.com/media/l378eVk7KxCOuJfPO/giphy.gif"/> -->
 
-### <samp> Hi! I'm Diego 😄 <img src="https://media.giphy.com/media/UV5fEvKclCBEi3DgzH/giphy.gif" width="100px"/></samp>
+### <samp> Hi! I'm Diego 😄 <img src="https://media.giphy.com/media/UV5fEvKclCBEi3DgzH/giphy.gif" width="50px"/></samp>
 
 I'm a Computer Engineering student. I live in Porto Alegre, a city in the south of Brazil and I'm 20 years old.
 
@@ -17,8 +16,6 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 <img width="60px" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg#/media/File:C_Programming_Language.svg"alt="C" style="vertical-align:top; margin:4px"/>
 <img width="60px" src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg#/media/File:ISO_C++_Logo.svg" alt="C++" style="vertical-align:top; margin:4px"/>
 <img width="60px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/97/81/2d/97812d68-3a5b-8429-30cb-b1d23df1eafd/source/512x512bb.jpg" alt="VHDL" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://raw.githubusercontent.com/MarinaFX/MarinaFX/master/svgs/010-github.svg" alt="Github" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://raw.githubusercontent.com/MarinaFX/MarinaFX/master/svgs/004-docker.svg" alt="Docker" style="vertical-align:top; margin:4px"/>
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoHSO&show_icons=true&theme=tokyonight" alt="Diego Stats" width="60%" />](https://github.com/DiegoHSO)
   
