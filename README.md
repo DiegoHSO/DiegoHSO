@@ -12,8 +12,8 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 🤓 - You're very welcomed to see all my college and personal projects down here. I already worked with the following **programming languages**:
 
 <p align="left">
-<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/swift.png" alt="Swift" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c.svg"alt="C" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/swift.png" alt="Swift" style="vertical-align:top; margin:4px"/> &nbsp;
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c.svg"alt="C" style="vertical-align:top; margin:4px"/> &nbsp;
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c%2B%2B.svg" alt="C++" style="vertical-align:top; margin:4px"/> &nbsp;
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" alt="VHDL" style="vertical-align:top; margin:4px"/> 
 <img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" alt="Assembly" style="vertical-align:top; margin:4px"/>  
