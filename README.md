@@ -9,7 +9,7 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 
 🧑🏾‍🦱 - In my free time, I love to watch [TV shows](https://tvtime.com/r/1SL8x), play [games](https://psnprofiles.com/diegohxnrique) and code 👨🏽‍💻 (not necessarily in this order 😅).
 
-🤓 - You're very welcomed to see all my college and personal projects down here. I already worked with the following *programming languages*:
+🤓 - You're very welcomed to see all my college and personal projects down here. I already worked with the following **programming languages**:
 
 <p align="left">
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/swift.png" alt="Swift" style="vertical-align:top; margin:4px"/>
@@ -18,7 +18,12 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" alt="VHDL" style="vertical-align:top; margin:4px"/>
 <img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" alt="Assembly" style="vertical-align:top; margin:4px"/>  
 
+🙋🏽‍♂️ - You can reach me anytime at:
+<p align="left">
+[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" alt="Linkedin" style="vertical-align:top; margin:4px"/>](https://www.linkedin.com/in/diego-henrique-oliveira/)
+[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/instagram.svg" alt="Swift" style="vertical-align:top; margin:4px"/>](https://www.instagram.com/diegohenrique._)  
 
+  
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoHSO&show_icons=true&theme=tokyonight" alt="Diego Stats" width="50%" />](https://github.com/DiegoHSO)
   
   
