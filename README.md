@@ -18,9 +18,11 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" alt="VHDL" style="vertical-align:top; margin:4px"/>
 <img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" alt="Assembly" style="vertical-align:top; margin:4px"/>  
 
-🙋🏽‍♂️ - You can reach me anytime at:
-[<img width="60px" align="left" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px" />](https://www.linkedin.com/in/diego-henrique-oliveira)
-[<img width="60px" align="left" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px" />](https://www.instagram.com/diegohenrique._)  
+🙋🏽‍♂️ - You can reach me anytime at: <br />
+  
+  
+[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px" />](https://www.linkedin.com/in/diego-henrique-oliveira)
+[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px" />](https://www.instagram.com/diegohenrique._)  
 
   
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoHSO&show_icons=true&theme=tokyonight" alt="Diego Stats" width="50%" />](https://github.com/DiegoHSO)
