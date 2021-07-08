@@ -1,7 +1,7 @@
 
 <!-- <img align="right" width="200px" src="https://media.giphy.com/media/l378eVk7KxCOuJfPO/giphy.gif"/> -->
 
-### <samp> Hi! I'm Diego 😄 <img src="https://media.giphy.com/media/UV5fEvKclCBEi3DgzH/giphy.gif" width="50px"/></samp>
+### <samp> Hi! I'm Diego <img src="https://media.giphy.com/media/UV5fEvKclCBEi3DgzH/giphy.gif" width="50px"/></samp>
 
 I'm a Computer Engineering student. I live in Porto Alegre, a city in the south of Brazil and I'm 20 years old.
 
