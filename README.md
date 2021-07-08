@@ -21,7 +21,7 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 🙋🏽‍♂️ - You can reach me anytime at: <br />
   
   
-[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px" />](https://www.linkedin.com/in/diego-henrique-oliveira)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px" />](https://www.linkedin.com/in/diego-henrique-oliveira)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px" />](https://www.instagram.com/diegohenrique._)  
 
   
