@@ -16,10 +16,10 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c.svg"alt="C" style="vertical-align:top; margin:4px"/>
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c%2B%2B.svg" alt="C++" style="vertical-align:top; margin:4px"/>
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" alt="VHDL" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" alt="Assembly" style="vertical-align:top; margin:4px"/>  
+<img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" alt="Assembly" style="vertical-align:top; margin:4px"/>  
 
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoHSO&show_icons=true&theme=tokyonight" alt="Diego Stats" width="60%" />](https://github.com/DiegoHSO)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoHSO&show_icons=true&theme=tokyonight" alt="Diego Stats" width="50%" />](https://github.com/DiegoHSO)
   
   
 </p>
