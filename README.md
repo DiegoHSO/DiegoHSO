@@ -12,27 +12,14 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 🤓 - You're very welcomed to see all my college and personal projects down here. I already worked with the following *programming languages*:
 
 <p align="left">
-<img width="60px" src="https://commons.wikimedia.org/wiki/File:Swift_logo.svg#/media/File:Swift_logo.svg" alt="Swift" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg#/media/File:C_Programming_Language.svg"alt="C" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg#/media/File:ISO_C++_Logo.svg" alt="C++" style="vertical-align:top; margin:4px"/>
-<img width="60px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/97/81/2d/97812d68-3a5b-8429-30cb-b1d23df1eafd/source/512x512bb.jpg" alt="VHDL" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/swift.png" alt="Swift" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c.svg"alt="C" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c%2B%2B.svg" alt="C++" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" alt="VHDL" style="vertical-align:top; margin:4px"/>
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" alt="Assembly" style="vertical-align:top; margin:4px"/>  
+
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoHSO&show_icons=true&theme=tokyonight" alt="Diego Stats" width="60%" />](https://github.com/DiegoHSO)
   
   
 </p>
-
-<!--
-**DiegoHSO/DiegoHSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
