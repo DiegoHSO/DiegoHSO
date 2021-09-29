@@ -20,8 +20,7 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 
 📱 - Developed apps: <br />
 
-<p align="left">  
-[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;    
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/fishlife.png" title="FishLife" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/fishlife/id1586180074)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
   
 🙋🏽‍♂️ - You can reach me anytime at: <br />
