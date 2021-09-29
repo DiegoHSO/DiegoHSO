@@ -12,23 +12,23 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 🤓 - You're very welcomed to see all my college and personal projects down here. I already worked with the following **programming languages**:
 
 <p align="left">
-<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/swift.png" alt="Swift" style="vertical-align:top; margin:4px"/> &nbsp;
-<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c.svg"alt="C" style="vertical-align:top; margin:4px"/> &nbsp;
-<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c%2B%2B.svg" alt="C++" style="vertical-align:top; margin:4px"/> &nbsp;
-<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" alt="VHDL" style="vertical-align:top; margin:4px"/> 
-<img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" alt="Assembly" style="vertical-align:top; margin:4px"/>  
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/swift.png" title="Swift" style="vertical-align:top; margin:4px"/> &nbsp;
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c.svg" title="C" style="vertical-align:top; margin:4px"/> &nbsp;
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c%2B%2B.svg" title="C++" style="vertical-align:top; margin:4px"/> &nbsp;
+<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" title="VHDL" style="vertical-align:top; margin:4px"/> 
+<img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" title="Assembly" style="vertical-align:top; margin:4px"/>  
 
 📱 - Developed apps: <br />
 
   
-[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" alt="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
-  
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/fishlife.png" title="FishLife" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/fishlife/id1586180074)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
   
 🙋🏽‍♂️ - You can reach me anytime at: <br />
   
   
-[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px" />](https://www.linkedin.com/in/diego-henrique-oliveira)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px" />](https://www.instagram.com/diegohenrique._)  
+[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" title="LinkedIn" style="vertical-align:top; margin:4px" />](https://www.linkedin.com/in/diego-henrique-oliveira)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/instagram.svg" title="Instagram" style="vertical-align:top; margin:4px" />](https://www.instagram.com/diegohenrique._)  
 
   
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoHSO&show_icons=true&theme=tokyonight" alt="Diego Stats" width="50%" />](https://github.com/DiegoHSO)
