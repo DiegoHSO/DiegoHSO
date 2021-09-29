@@ -5,9 +5,9 @@
 
 I'm a Computer Engineering student. I live in Porto Alegre, a city in the south of Brazil and I'm 20 years old.
 
-🖥 - At the moment, I'm also a fellowship student at [*Apple Developer Academy | PUCRS*](http://www.bepid.com.br/poa/), where I'm learning lots of development technologies to Apple platforms (iOS, iPadOS, macOS, watchOS and tvOS), design and entrepreneurship essential concepts. 
+🖥 - At the moment, I'm also a fellowship student at [*Apple Developer Academy | PUCRS*](https://developeracademy.eldorado.org.br/poa/), where I'm learning lots of development technologies to Apple platforms (iOS, iPadOS, macOS, watchOS and tvOS), design and entrepreneurship essential concepts. 
 
-🧑🏾‍🦱 - In my free time, I love to watch [TV shows](https://tvtime.com/r/1SL8x), play [games](https://psnprofiles.com/diegohxnrique) and code 👨🏽‍💻 (not necessarily in this order 😅).
+🧑🏾‍🦱 - In my free time, I love to watch [TV shows](https://tvtime.com/r/1SL8x), play [games](https://psnprofiles.com/diegohxnrique) and code with some [music](https://open.spotify.com/user/12145887225) 👨🏽‍💻 (not necessarily in this order 😅).
 
 🤓 - You're very welcomed to see all my college and personal projects down here. I already worked with the following **programming languages**:
 
