@@ -18,13 +18,12 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" title="VHDL" style="vertical-align:top; margin:4px"/> 
 <img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" title="Assembly" style="vertical-align:top; margin:4px"/>  
 
-📱 - Developed apps:
-<p align="left">
-<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />(https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;    
-<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/fishlife.png" title="FishLife" style="vertical-align:top; margin:4px" />(https://apps.apple.com/us/app/fishlife/id1586180074)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+📱 - Developed apps: <br />
+
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/fishlife.png" title="FishLife" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/fishlife/id1586180074)
   
 🙋🏽‍♂️ - You can reach me anytime at: <br />
-  
   
 [<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/linkedin.png" title="LinkedIn" style="vertical-align:top; margin:4px" />](https://www.linkedin.com/in/diego-henrique-oliveira)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/instagram.svg" title="Instagram" style="vertical-align:top; margin:4px" />](https://www.instagram.com/diegohenrique._)  
