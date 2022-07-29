@@ -1,5 +1,5 @@
 
-<img align="right" width="300px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/gifs/computer.gif"/>
+<img align="right" width="400px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/gifs/computer.gif"/>
 
 ### Hi! I'm Diego 😄
 
