@@ -17,6 +17,7 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/c%2B%2B.svg" title="C++" style="vertical-align:top; margin:4px"/> &nbsp;
 <img width="60px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/vhdl.jpeg" title="VHDL" style="vertical-align:top; margin:4px"/> 
 <img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/assembly.png" title="Assembly" style="vertical-align:top; margin:4px"/>  
+<img width="70px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/go.png" title="Go" style="vertical-align:top; margin:4px"/>     
 
 📱 - Developed apps: <br />
 
