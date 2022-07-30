@@ -1,5 +1,5 @@
 
-<img align="right" width="350px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/gifs/computer.gif"/>
+<img align="right" width="420px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/gifs/computer.gif"/>
 
 ### Hi! I'm Diego 😄
 
@@ -7,7 +7,8 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 
 🖥 - At the moment, I'm also a student on a project where I'm learning lots of development technologies to Apple platforms (iOS, iPadOS, macOS, watchOS and tvOS), design and entrepreneurship essential concepts. 
 
-🏆 - I'm one of the 350 people in the world that won the WWDC22 Swift Student Challenge, an annual challenge created by Apple that awards students around the world by their coding skills and problem solving capabilities. My submission is avaliable right [here](https://github.com/DiegoHSO/DinnerRun).
+🏆 - I'm one of the 350 people in the world that won the WWDC22 Swift   
+Student Challenge, an annual challenge created by Apple that awards students around the world by their coding skills and problem solving capabilities. My submission is avaliable right [here](https://github.com/DiegoHSO/DinnerRun).
 
 🧑🏾‍🦱 - In my free time, I love to watch [TV shows](https://tvtime.com/r/1SL8x), play [games](https://psnprofiles.com/diegohxnrique) and code with some [music](https://open.spotify.com/user/12145887225) 👨🏽‍💻 (not necessarily in this order 😅).
 
@@ -26,6 +27,8 @@ I'm a Computer Engineering student. I live in Porto Alegre, a city in the south 
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;&nbsp;
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/fishlife.png" title="FishLife" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/fishlife/id1586180074)&nbsp;&nbsp;
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/expensee.png" title="Expensee" style="vertical-align:top; margin:4px" />](https://github.com/alineescobar/ExpensesOrganizer)
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/skriva.png" title="Skriva" style="vertical-align:top; margin:4px" />](https://testflight.apple.com/join/gJT64PIv)
+
   
 🙋🏽‍♂️ - You can reach me anytime at: <br />
   
