@@ -23,7 +23,7 @@ Student Challenge, an annual challenge created by Apple that awards students aro
 <img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/go.png" title="Go" style="vertical-align:top; margin:4px"/>     
 
 📱 - Developed apps: <br />
-[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/zaitty.png" title="Zaitty" style="vertical-align:top; margin:4px" />](https://github.com/line-application/ios)
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/zaitty.png" title="Zaitty" style="vertical-align:top; margin:8px" />](https://github.com/line-application/ios)
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;&nbsp;
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/fishlife.png" title="FishLife" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/fishlife/id1586180074)&nbsp;&nbsp;
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/expensee.png" title="Expensee" style="vertical-align:top; margin:4px" />](https://github.com/alineescobar/ExpensesOrganizer)&nbsp;&nbsp;
