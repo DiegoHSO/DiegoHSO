@@ -27,7 +27,7 @@ Student Challenge, an annual challenge created by Apple that awards students aro
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/zaitty.png" title="Zaitty" style="vertical-align:top; margin:4px" />](https://github.com/line-application/ios)&nbsp;&nbsp;
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/GardenMinder.png" title="GardenMinder" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/gardenminder/id1582232316)&nbsp;&nbsp;
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/fishlife.png" title="FishLife" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/fishlife/id1586180074)&nbsp;&nbsp;
-[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/expensee.png" title="Expensee" style="vertical-align:top; margin:4px" />](https://github.com/alineescobar/ExpensesOrganizer)&nbsp;&nbsp;
+[<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/expensee.png" title="Expensee" style="vertical-align:top; margin:4px" />](https://apps.apple.com/us/app/expensee-organize-finanças/id6443573142)&nbsp;&nbsp;
 [<img width="80px" src="https://github.com/DiegoHSO/DiegoHSO/blob/main/images/skriva_icon.png" title="Skriva" style="vertical-align:top; margin:4px" />](https://apple.co/3Ai4E3A)
   
   
