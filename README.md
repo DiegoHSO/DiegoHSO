@@ -3,9 +3,9 @@
 
 ### Hi! I'm Diego 😄
 
-I'm a Computer Engineering student. I live in Porto Alegre, a city in the south of Brazil and I'm 22 years old.
+I'm a Computer Engineering student. I live in Porto Alegre, a city in the south of Brazil and I'm 23 years old.
 
-🖥 - At the moment, I'm focused and working mainly with iOS Development.
+🖥 - At the moment, I'm working mainly with iOS Development.
 
 🏆 - I'm one of the 350 people in the world that won the WWDC22 Swift   
 Student Challenge, an annual challenge created by Apple that awards students around the world by their coding skills and problem solving capabilities. My submission is avaliable right [here](https://github.com/DiegoHSO/DinnerRun).
