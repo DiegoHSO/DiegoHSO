@@ -3,7 +3,7 @@
 
 ### Hi! I'm Diego 😄
 
-I'm a Computer Engineering student. I live in Porto Alegre, a city in the south of Brazil and I'm 23 years old.
+I'm a Computer Engineer, currently living in Porto Alegre, a city in the south of Brazil. I'm 23 years old.
 
 🖥 - At the moment, I'm working mainly with iOS Development.
 
